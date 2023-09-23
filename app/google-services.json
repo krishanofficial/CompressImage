@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807578738505",
+    "project_id": "compressimage-180a9",
+    "storage_bucket": "compressimage-180a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807578738505:android:1807f4251abc05abc3c498",
+        "android_client_info": {
+          "package_name": "com.example.compressimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1rSuSgREzFsls6actrtlmGCEH8eGOe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
